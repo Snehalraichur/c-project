@@ -1,5 +1,4 @@
 main () {
-biggest();
 factorial();
 reverse();
 biggestoftwo();
